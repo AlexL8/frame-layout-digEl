@@ -1,0 +1,35 @@
+@font-face {
+	font-display: swap;
+	font-family: 'Galien Bold';
+	font-style: normal;
+	font-weight: 700;
+	src: url('Galien-Bold.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Gilroy Regular';
+	src: local('Gilroy Regular'), local('Gilroy-Regular'),
+	url('Gilroy-Regular.woff2') format('woff2'),
+	url('Gilroy-Regular.woff') format('woff'),
+	url('Gilroy-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gilroy Semibold';
+	src: local('Gilroy Semibold'), local('Gilroy-Semibold'),
+	url('Gilroy-Semibold.woff2') format('woff2'),
+	url('Gilroy-Semibold.woff') format('woff'),
+	url('Gilroy-Semibold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+// @font-face {
+// 	font-display: swap;
+// 	font-family: 'ttt';
+// 	font-style: normal;
+// 	font-weight: 400;
+// 	src: url('./Galien-Bold.ttf') format("TrueType");
+// }
